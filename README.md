@@ -1,4 +1,4 @@
-![Sakshi Shah]
+![Sakshi Shah](https://github.com/SakshiShah29/sakshishah29/raw/master/1080x360.jpg)
 
 
 Here are some ideas to get you started:
