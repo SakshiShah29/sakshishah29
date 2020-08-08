@@ -1,9 +1,14 @@
 <p align="center">
   <a href="https://twitter.com/Sakshi_Shah1929">
     <img src="https://github.com/SakshiShah29/sakshishah29/raw/master/twitter%20(1).png">
-  </a>
+  </a>Twitter
+  
   <a href="https://www.instagram.com/sakshiiishah___/?hl=en">
-    <img src="
+    <img src="https://github.com/SakshiShah29/sakshishah29/raw/master/instagram%20(3).png">
+  </a>Instagram
+  
+  <a href="https://www.facebook.com/sakshi.sshah">
+  <img src=""></a>Facebook
 <p>
   
 
