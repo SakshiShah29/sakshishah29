@@ -1,5 +1,6 @@
-# H1 Hi there!
-## H2 I am Sakshi Shah.Currently gearing up with Front-end Development 
+# Hi there!
+## I am Sakshi Shah.
+### Currently gearing up with Front-end Development 
 
 <p justify-content="center">
   <a href="https://twitter.com/Sakshi_Shah1929">
