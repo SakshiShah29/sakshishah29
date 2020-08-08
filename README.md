@@ -1,14 +1,14 @@
-<p align="center">
+<p>
   <a href="https://twitter.com/Sakshi_Shah1929">
     <img src="https://github.com/SakshiShah29/sakshishah29/raw/master/twitter%20(1).png">
   </a>Twitter
-  
+  <br>
   <a href="https://www.instagram.com/sakshiiishah___/?hl=en">
     <img src="https://github.com/SakshiShah29/sakshishah29/raw/master/instagram%20(3).png">
   </a>Instagram
-  
+  <br>
   <a href="https://www.facebook.com/sakshi.sshah">
-  <img src=""></a>Facebook
+  <img src="https://github.com/SakshiShah29/sakshishah29/raw/master/facebook%20(1).png"></a>Facebook
 <p>
   
 
