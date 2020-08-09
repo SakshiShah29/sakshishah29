@@ -3,6 +3,7 @@
 ### Currently gearing up with Front-end Development 
 
 ### 
+[mit license](https://raw.githubusercontent.com/sabertazimi/markdown-badges-snippets/master/LICENSE) [sabertazimi](https://github.com/sabertazimi)
 [![GitHub last commit | Sunday](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)](Sunday)
 [![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]() [![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]() 
 [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
