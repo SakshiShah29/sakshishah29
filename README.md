@@ -3,9 +3,9 @@
 ### Currently gearing up with Front-end Development 
 
 ### 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)  
+[![HTML5](https://img.shields.io/badge/<HTML5>-<COMPLETED>-<YELLOW>.svg)](https://shields.io/)
+[![CSS3](https://img.shields.io/badge/<CSS3>-<COMPLETED>-<BLUE>.svg)](https://shields.io/)
+[![Responsive Web Design](https://img.shields.io/badge/<Responsive Web Design>-<Completed>-<Pink>.svg)](https://shields.io/)
 
 [![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
