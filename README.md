@@ -14,6 +14,8 @@
 
 [![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=SakshiShah29)](https://github.com/SakshiShah29/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiShah29)](https://github.com/SakshiShah29/github-readme-stats)
+
 #### Contact me:
 <p justify-content="center">
   <a href="https://twitter.com/Sakshi_Shah1929">
